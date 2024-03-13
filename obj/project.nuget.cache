@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "zQ/N1w8dNeFNjrXlueDQ7Kab77EOKtF2VVxut8hPPzSG6c31R9vubccW7XIyJxi5EtCE9smbShV7ceh25wRisQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ejonh\\OneDrive\\Área de Trabalho\\College\\3 - Third Semester (Winter 2024)\\2 - Tuesday\\1 - Server-Side Scripting-ASP.NET - 204\\Week 9\\AuthGoogleAssignment3\\AuthGoogleAssignment3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ejonh\\.nuget\\packages\\microsoft.aspnetcore.authentication.google\\7.0.13\\microsoft.aspnetcore.authentication.google.7.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
